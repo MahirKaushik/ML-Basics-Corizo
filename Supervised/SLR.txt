@@ -1,0 +1,3 @@
+S1. find dependent and independent variable
+S2. positive or negative correlation
+S3. Best fit line(Strainght line) (y=mx+c  y independent x dependent m slope and c intercept)
